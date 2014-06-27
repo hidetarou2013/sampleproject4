@@ -4,8 +4,8 @@
   <artifactId>sampleproject4</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>sampleproject4/name>
-  <description>GitHub-eclipse-Redmine-Jenkins-Maven-Servlet</description>
+  <name>sampleproject4</name>
+  <description>Jenkins-Maven-Servlet</description>
 
   <properties>
      <findbugs.version>2.5.2</findbugs.version>
