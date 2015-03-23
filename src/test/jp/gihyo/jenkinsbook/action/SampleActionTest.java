@@ -59,7 +59,7 @@ public class SampleActionTest {
 		boolean result = action.checkParameter(request);
 		verify(request);
 
-		assertEquals(result, true);
+		assertEquals(result, true);// edit1
 	}
 	
 	@Test
