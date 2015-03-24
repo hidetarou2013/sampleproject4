@@ -19,7 +19,7 @@
     <testSourceDirectory>src/test</testSourceDirectory>
     <resources>
       <resource>
-        <directory>${basedir}/webapp</directory>
+        <directory>web</directory>
       </resource>
     </resources>
     <plugins>
